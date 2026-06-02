@@ -7,12 +7,16 @@ Chatbot inteligente para consultar informações sobre filmes e séries usando I
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/JuanBarrer4/chatbot-filmes-series.git
+```
+```bash
 cd chatbot-filmes-series
 ```
 
 ### 2. Criar o ambiente virtual
 ```bash
 python -m venv venv
+```
+```bash
 venv\Scripts\activate
 ```
 
@@ -39,7 +43,12 @@ http://localhost:5000
 - Flask
 - OpenRouter API
 - HTML/CSS/JavaScript
+
 Depois executa:
+```bash
 bashgit add README.md
+```
 git commit -m "adiciona README"
+```bash
 git push
+```

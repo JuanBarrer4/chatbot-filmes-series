@@ -1,0 +1,99 @@
+[
+    {
+        "titulo": "Interestelar",
+        "ano": 2014,
+        "diretor": "Christopher Nolan",
+        "elenco": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "genero": "Ficção Científica",
+        "classificacao": "10 anos",
+        "duracao": "169 min",
+        "nota": 8.7,
+        "resumo": "Astronautas viajam por um buraco de minhoca em busca de um novo lar para a humanidade.",
+        "semelhantes": [
+            "A Origem",
+            "Perdido em Marte",
+            "Gravidade"
+        ]
+    },
+    {
+        "titulo": "O Poderoso Chefão",
+        "ano": 1972,
+        "diretor": "Francis Ford Coppola",
+        "elenco": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "genero": "Drama/Crime",
+        "classificacao": "16 anos",
+        "duracao": "175 min",
+        "nota": 9.2,
+        "resumo": "A história da família mafiosa Corleone e a ascensão de Michael ao poder.",
+        "semelhantes": [
+            "O Poderoso Chefão II",
+            "Goodfellas",
+            "Casino"
+        ]
+    },
+    {
+        "titulo": "Titanic",
+        "ano": 1997,
+        "diretor": "James Cameron",
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Kate Winslet"
+        ],
+        "genero": "Romance/Drama",
+        "classificacao": "12 anos",
+        "duracao": "194 min",
+        "nota": 7.9,
+        "resumo": "Uma história de amor entre dois jovens de classes sociais diferentes no famoso naufrágio.",
+        "semelhantes": [
+            "Diário de uma Paixão",
+            "Ghost",
+            "Pearl Harbor"
+        ]
+    },
+    {
+        "titulo": "Deadpool",
+        "ano": 2016,
+        "diretor": "Tim Miller",
+        "elenco": [
+            "Ryan Reynolds",
+            "Morena Baccarin"
+        ],
+        "genero": "Ação/Comédia",
+        "classificacao": "18 anos",
+        "duracao": "108 min",
+        "nota": 8.0,
+        "resumo": "Um mercenário com poderes de cura acelerada luta contra o vilão que o transformou.",
+        "semelhantes": [
+            "Deadpool 2",
+            "Wolverine",
+            "Kick-Ass"
+        ]
+    },
+    {
+        "titulo": "Toy Story",
+        "ano": 1995,
+        "diretor": "John Lasseter",
+        "elenco": [
+            "Tom Hanks",
+            "Tim Allen"
+        ],
+        "genero": "Animação/Aventura",
+        "classificacao": "Livre",
+        "duracao": "81 min",
+        "nota": 8.3,
+        "resumo": "Os brinquedos ganham vida quando os humanos não estão por perto e vivem grandes aventuras.",
+        "semelhantes": [
+            "Toy Story 2",
+            "Monstros S.A.",
+            "Procurando Nemo"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "titulo": "Breaking Bad",
+        "ano": 2008,
+        "criador": "Vince Gilligan",
+        "temporadas": 5,
+        "genero": "Drama/Crime",
+        "classificacao": "18 anos",
+        "nota": 9.5,
+        "resumo": "Um professor de química vira traficante de drogas após ser diagnosticado com câncer terminal.",
+        "semelhantes": [
+            "Better Call Saul",
+            "Ozark",
+            "Narcos"
+        ]
+    },
+    {
+        "titulo": "Stranger Things",
+        "ano": 2016,
+        "criador": "Irmãos Duffer",
+        "temporadas": 4,
+        "genero": "Ficção Científica/Terror",
+        "classificacao": "14 anos",
+        "nota": 8.7,
+        "resumo": "Um grupo de crianças enfrenta forças sobrenaturais em uma pequena cidade americana nos anos 80.",
+        "semelhantes": [
+            "Dark",
+            "The OA",
+            "Locke & Key"
+        ]
+    },
+    {
+        "titulo": "Dark",
+        "ano": 2017,
+        "criador": "Baran bo Odar",
+        "temporadas": 3,
+        "genero": "Ficção Científica/Mistério",
+        "classificacao": "16 anos",
+        "nota": 8.8,
+        "resumo": "Quatro famílias de uma cidade alemã se entrelaçam em uma conspiração de viagem no tempo.",
+        "semelhantes": [
+            "Stranger Things",
+            "The OA",
+            "Dark Matter"
+        ]
+    },
+    {
+        "titulo": "Game of Thrones",
+        "ano": 2011,
+        "criador": "David Benioff",
+        "temporadas": 8,
+        "genero": "Fantasia/Drama",
+        "classificacao": "18 anos",
+        "nota": 9.2,
+        "resumo": "Famílias nobres lutam pelo controle do Trono de Ferro no continente fictício de Westeros.",
+        "semelhantes": [
+            "The Witcher",
+            "House of the Dragon",
+            "Vikings"
+        ]
+    },
+    {
+        "titulo": "La Casa de Papel",
+        "ano": 2017,
+        "criador": "Álex Pina",
+        "temporadas": 5,
+        "genero": "Ação/Suspense",
+        "classificacao": "16 anos",
+        "nota": 8.2,
+        "resumo": "Um grupo de ladrões executa roubos milionários à Casa da Moeda da Espanha liderados pelo Professor.",
+        "semelhantes": [
+            "Ozark",
+            "Narcos",
+            "Money Heist: Korea"
+        ]
+    }
+]

@@ -95,5 +95,2340 @@
             "Monstros S.A.",
             "Procurando Nemo"
         ]
+    },
+    {
+        "titulo": "Cidade de Deus",
+        "ano": 2002,
+        "diretor": "Fernando Meirelles",
+        "elenco": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Phellipe Haagensen"
+        ],
+        "genero": "Drama/Crime",
+        "classificacao": "16 anos",
+        "duracao": "130 min",
+        "nota": 8.6,
+        "resumo": "O crescimento do crime organizado na favela Cidade de Deus, no Rio de Janeiro, contado pela perspectiva de Buscapé.",
+        "semelhantes": [
+            "Tropa de Elite",
+            "Carandiru",
+            "Pixote"
+        ]
+    },
+    {
+        "titulo": "Tropa de Elite",
+        "ano": 2007,
+        "diretor": "José Padilha",
+        "elenco": [
+            "Wagner Moura",
+            "Caio Junqueira",
+            "André Ramiro"
+        ],
+        "genero": "Ação/Drama",
+        "classificacao": "16 anos",
+        "duracao": "115 min",
+        "nota": 8.0,
+        "resumo": "O cotidiano do BOPE no Rio de Janeiro e a busca do Capitão Nascimento por um substituto.",
+        "semelhantes": [
+            "Tropa de Elite 2",
+            "Cidade de Deus",
+            "Alemão"
+        ]
+    },
+    {
+        "titulo": "O Auto da Compadecida",
+        "ano": 2000,
+        "diretor": "Guel Arraes",
+        "elenco": [
+            "Matheus Nachtergaele",
+            "Selton Mello",
+            "Denise Fraga"
+        ],
+        "genero": "Comédia/Sátira",
+        "classificacao": "Livre",
+        "duracao": "104 min",
+        "nota": 8.6,
+        "resumo": "As aventuras e trapaças dos nordestinos João Grilo e Chicó que tentam sobreviver no sertão.",
+        "semelhantes": [
+            "Lisbela e o Prisioneiro",
+            "O Bem Amado",
+            "Cine Holliúdy"
+        ]
+    },
+    {
+        "titulo": "Batman: O Cavaleiro das Trevas",
+        "ano": 2008,
+        "diretor": "Christopher Nolan",
+        "elenco": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "genero": "Ação/Policial",
+        "classificacao": "14 anos",
+        "duracao": "152 min",
+        "nota": 9.0,
+        "resumo": "Batman enfrenta seu maior inimigo, o Coringa, que busca instaurar o caos em Gotham City.",
+        "semelhantes": [
+            "Batman Begins",
+            "O Cavaleiro das Trevas Ressurge",
+            "Coringa"
+        ]
+    },
+    {
+        "titulo": "A Origem",
+        "ano": 2010,
+        "diretor": "Christopher Nolan",
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "genero": "Ficção Científica/Ação",
+        "classificacao": "14 anos",
+        "duracao": "148 min",
+        "nota": 8.8,
+        "resumo": "Um ladrão que invade os sonhos das pessoas para roubar segredos corporativos recebe a tarefa inversa: plantar uma ideia.",
+        "semelhantes": [
+            "Interestelar",
+            "Matrix",
+            "Ilha do Medo"
+        ]
+    },
+    {
+        "titulo": "Matrix",
+        "ano": 1999,
+        "diretor": "Lana Wachowski, Lilly Wachowski",
+        "elenco": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "genero": "Ficção Científica/Ação",
+        "classificacao": "12 anos",
+        "duracao": "136 min",
+        "nota": 8.7,
+        "resumo": "Um programador de computador descobre que o world em que vive é uma simulação virtual criada por máquinas.",
+        "semelhantes": [
+            "A Origem",
+            "Blade Runner 2049",
+            "V de Vingança"
+        ]
+    },
+    {
+        "titulo": "Clube da Luta",
+        "ano": 1999,
+        "diretor": "David Fincher",
+        "elenco": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter"
+        ],
+        "genero": "Drama/Suspense",
+        "classificacao": "18 anos",
+        "duracao": "139 min",
+        "nota": 8.8,
+        "resumo": "Um homem deprimido e insone conhece um carismático vendedor de sabonetes e juntos criam um clube de lutas clandestino.",
+        "semelhantes": [
+            "Psicopata Americano",
+            "Se7en",
+            "O Operário"
+        ]
+    },
+    {
+        "titulo": "Forrest Gump: O Contador de Histórias",
+        "ano": 1994,
+        "diretor": "Robert Zemeckis",
+        "elenco": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "genero": "Drama/Romance",
+        "classificacao": "14 anos",
+        "duracao": "142 min",
+        "nota": 8.8,
+        "resumo": "A história das décadas de vida de um homem gentil do Alabama que testemunha e influencia eventos históricos dos EUA.",
+        "semelhantes": [
+            "O Curioso Caso de Benjamin Button",
+            "À Espera de um Milagre",
+            "Peixe Grande"
+        ]
+    },
+    {
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "ano": 1994,
+        "diretor": "Quentin Tarantino",
+        "elenco": [
+            "John Travolta",
+            "Samuel L. Jackson",
+            "Uma Thurman"
+        ],
+        "genero": "Crime/Drama",
+        "classificacao": "18 anos",
+        "duracao": "154 min",
+        "nota": 8.9,
+        "resumo": "As vidas de dois assassininos da máfia, um boxeador, a esposa de um gângster e dois bandidos se entrelaçam em histórias de violência e redenção.",
+        "semelhantes": [
+            "Cães de Aluguel",
+            "Bastardos Inglórios",
+            "Snatch"
+        ]
+    },
+    {
+        "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+        "ano": 2003,
+        "diretor": "Peter Jackson",
+        "elenco": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ],
+        "genero": "Fantasia/Aventura",
+        "classificacao": "14 anos",
+        "duracao": "201 min",
+        "nota": 9.0,
+        "resumo": "O confronto final entre as forças do bem e do mal pelo controle da Terra Média enquanto Frodo chega ao Monte da Perdição.",
+        "semelhantes": [
+            "As Duas Torres",
+            "A Sociedade do Anel",
+            "O Hobbit"
+        ]
+    },
+    {
+        "titulo": "Minha Mãe é uma Peça",
+        "ano": 2013,
+        "diretor": "André Pellenz",
+        "elenco": [
+            "Paulo Gustavo",
+            "Mariana Xavier",
+            "Rodrigo Pandolfo"
+        ],
+        "genero": "Comédia",
+        "classificacao": "12 anos",
+        "duracao": "84 min",
+        "nota": 7.4,
+        "resumo": "Dona Hermínia é uma mulher de meia-idade, divorciada, que não larga do pé dos filhos e decide passar uns dias fora após ouvir críticas.",
+        "semelhantes": [
+            "Minha Mãe é uma Peça 2",
+            "Tudo Por Um Popstar",
+            "De Pernas pro Ar"
+        ]
+    },
+    {
+        "titulo": "Central do Brasil",
+        "ano": 1998,
+        "diretor": "Walter Salles",
+        "elenco": [
+            "Fernanda Montenegro",
+            "Vinícius de Oliveira",
+            "Marília Pêra"
+        ],
+        "genero": "Drama",
+        "classificacao": "12 anos",
+        "duracao": "113 min",
+        "nota": 8.0,
+        "resumo": "Uma ex-professora que escreve cartas para analfabetos na estação Central do Brasil ajuda um menino órfão a encontrar seu pai no sertão.",
+        "semelhantes": [
+            "Narradores de Javé",
+            "Abril Despedaçado",
+            "O Ano em que Meus Pais Saíram de Férias"
+        ]
+    },
+    {
+        "titulo": "O Show de Truman",
+        "ano": 1998,
+        "diretor": "Peter Weir",
+        "elenco": [
+            "Jim Carrey",
+            "Laura Linney",
+            "Ed Harris"
+        ],
+        "genero": "Drama/Comédia",
+        "classificacao": "Livre",
+        "duracao": "103 min",
+        "nota": 8.2,
+        "resumo": "Um vendedor de seguros descobre que toda a sua vida é, na verdade, um reality show transmitido para o mundo inteiro.",
+        "semelhantes": [
+            "Brilho Eterno de uma Mente sem Lembranças",
+            "Wall-E",
+            "Quero Ser John Malkovich"
+        ]
+    },
+    {
+        "titulo": "Gladiador",
+        "ano": 2000,
+        "diretor": "Ridley Scott",
+        "elenco": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "genero": "Ação/Drama",
+        "classificacao": "14 anos",
+        "duracao": "155 min",
+        "nota": 8.5,
+        "resumo": "Um outrora poderoso general romano busca vingança contra o imperador corrupto que assassinou sua família e o enviou para a escravidão.",
+        "semelhantes": [
+            "Coração Valente",
+            "Troia",
+            "300"
+        ]
+    },
+    {
+        "titulo": "Jurassic Park: Parque dos Dinossauros",
+        "ano": 1993,
+        "diretor": "Steven Spielberg",
+        "elenco": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ],
+        "genero": "Ficção Científica/Aventura",
+        "classificacao": "12 anos",
+        "duracao": "127 min",
+        "nota": 8.2,
+        "resumo": "Um bilionário cria um parque de diversões com dinossauros clonados, mas uma falha de segurança liberta as feras.",
+        "semelhantes": [
+            "Mundo dos Dinossauros",
+            "King Kong",
+            "Avatar"
+        ]
+    },
+    {
+        "titulo": "Avatar",
+        "ano": 2009,
+        "diretor": "James Cameron",
+        "elenco": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver"
+        ],
+        "genero": "Ficção Científica/Ação",
+        "classificacao": "12 anos",
+        "duracao": "162 min",
+        "nota": 7.9,
+        "resumo": "No exuberante mundo de Pandora, um fuzileiro naval paraplégico se infiltra na raça alienígena local e passa a questionar sua missão.",
+        "semelhantes": [
+            "Avatar: O Caminho da Água",
+            "A Garota da Capa Vermelha",
+            "Transformers"
+        ]
+    },
+    {
+        "titulo": "O Rei Leão",
+        "ano": 1994,
+        "diretor": "Roger Allers, Rob Minkoff",
+        "elenco": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ],
+        "genero": "Animação/Drama",
+        "classificacao": "Livre",
+        "duracao": "88 min",
+        "nota": 8.5,
+        "resumo": "O filhote de leão Simba é forçado a fugir após a morte de seu pai e deve aprender o real significado de responsabilidade e realeza.",
+        "semelhantes": [
+            "Bambi",
+            "Aladdin",
+            "Tarzan"
+        ]
+    },
+    {
+        "titulo": "Vingadores: Ultimato",
+        "ano": 2019,
+        "diretor": "Anthony Russo, Joe Russo",
+        "elenco": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ],
+        "genero": "Ação/Ficção Científica",
+        "classificacao": "12 anos",
+        "duracao": "181 min",
+        "nota": 8.4,
+        "resumo": "Após os eventos devastadores de Guerra Infinita, os heróis sobreviventes se reúnem para tentar reverter as ações de Thanos.",
+        "semelhantes": [
+            "Vingadores: Guerra Infinita",
+            "Homem de Ferro",
+            "Capitão América: Guerra Civil"
+        ]
+    },
+    {
+        "titulo": "O Silêncio dos Inocentes",
+        "ano": 1991,
+        "diretor": "Jonathan Demme",
+        "elenco": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ],
+        "genero": "Suspense/Policial",
+        "classificacao": "14 anos",
+        "duracao": "118 min",
+        "nota": 8.6,
+        "resumo": "Uma jovem cadete do FBI busca a ajuda de um psiquiatra canibal encarcerado para capturar outro assassino em série.",
+        "semelhantes": [
+            "Se7en",
+            "Dragão Vermelho",
+            "Zodíaco"
+        ]
+    },
+    {
+        "titulo": "Bastardos Inglórios",
+        "ano": 2009,
+        "diretor": "Quentin Tarantino",
+        "elenco": [
+            "Brad Pitt",
+            "Christoph Waltz",
+            "Mélanie Laurent"
+        ],
+        "genero": "Guerra/Ação",
+        "classificacao": "18 anos",
+        "duracao": "153 min",
+        "nota": 8.3,
+        "resumo": "Na França ocupada por nazistas, um grupo de soldados judeus-americanos planeja assassinar os líderes do Terceiro Reich.",
+        "semelhantes": [
+            "Django Livre",
+            "Pulp Fiction",
+            "O Resgate do Soldado Ryan"
+        ]
+    },
+    {
+        "titulo": "Django Livre",
+        "ano": 2012,
+        "diretor": "Quentin Tarantino",
+        "elenco": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ],
+        "genero": "Faroeste/Drama",
+        "classificacao": "16 anos",
+        "duracao": "165 min",
+        "nota": 8.4,
+        "resumo": "Com a ajuda de um caçador de recompensas alemão, um escravo liberto viaja pelos EUA para resgatar sua esposa de um cruel fazendeiro.",
+        "semelhantes": [
+            "Os Oito Odiados",
+            "Bastardos Inglórios",
+            "Três Homens em Conflito"
+        ]
+    },
+    {
+        "titulo": "A Lista de Schindler",
+        "ano": 1993,
+        "diretor": "Steven Spielberg",
+        "elenco": [
+            "Liam Neeson",
+            "Ben Kingsley",
+            "Ralph Fiennes"
+        ],
+        "genero": "Drama/História",
+        "classificacao": "14 anos",
+        "duracao": "195 min",
+        "nota": 9.0,
+        "resumo": "Na Polônia ocupada pelos nazistas, o empresário Oskar Schindler salva mais de mil judeus do Holocausto empregando-os em suas fábricas.",
+        "semelhantes": [
+            "O Pianista",
+            "A Vida é Bela",
+            "O Menino do Pijama Listrado"
+        ]
+    },
+    {
+        "titulo": "O Pianista",
+        "ano": 2002,
+        "diretor": "Roman Polanski",
+        "elenco": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ],
+        "genero": "Drama/Biografia",
+        "classificacao": "14 anos",
+        "duracao": "150 min",
+        "nota": 8.5,
+        "resumo": "Um músico judeu polonês luta para sobreviver à destruição do gueto de Varsóvia durante a Segunda Guerra Mundial.",
+        "semelhantes": [
+            "A Lista de Schindler",
+            "O Menino do Pijama Listrado",
+            "Corações de Ferro"
+        ]
+    },
+    {
+        "titulo": "A Vida é Bela",
+        "ano": 1997,
+        "diretor": "Roberto Benigni",
+        "elenco": [
+            "Roberto Benigni",
+            "Nicoletta Braschi"
+        ],
+        "genero": "Drama/Guerra",
+        "classificacao": "12 anos",
+        "duracao": "116 min",
+        "nota": 8.6,
+        "resumo": "Um garçom judeu italiano usa sua imaginação e humor para proteger seu filho pequeno dos horrores de um campo de concentração nazista.",
+        "semelhantes": [
+            "O Pianista",
+            "A Lista de Schindler",
+            "Cinema Paradiso"
+        ]
+    },
+    {
+        "titulo": "Cinema Paradiso",
+        "ano": 1988,
+        "diretor": "Giuseppe Tornatore",
+        "elenco": [
+            "Philippe Noiret",
+            "Jacques Perrin",
+            "Salvatore Cascio"
+        ],
+        "genero": "Drama/Romance",
+        "classificacao": "12 anos",
+        "duracao": "155 min",
+        "nota": 8.5,
+        "resumo": "Um cineasta reconta sua infância e a amizade com o projecionista do cinema de sua pequena cidade natal.",
+        "semelhantes": [
+            "A Vida é Bela",
+            "Amarcord",
+            "O Carteiro e o Poeta"
+        ]
+    },
+    {
+        "titulo": "De Volta para o Futuro",
+        "ano": 1985,
+        "diretor": "Robert Zemeckis",
+        "elenco": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ],
+        "genero": "Ficção Científica/Aventura",
+        "classificacao": "Livre",
+        "duracao": "116 min",
+        "nota": 8.5,
+        "resumo": "Um adolescente é enviado acidentalmente de volta no tempo para 1955 em um carro modificado por um cientista excêntrico.",
+        "semelhantes": [
+            "De Volta para o Futuro II",
+            "Ghostbusters",
+            "Os Goonies"
+        ]
+    },
+    {
+        "titulo": "Clube dos Cinco",
+        "ano": 1985,
+        "diretor": "John Hughes",
+        "elenco": [
+            "Emilio Estevez",
+            "Judd Nelson",
+            "Molly Ringwald"
+        ],
+        "genero": "Drama/Comédia",
+        "classificacao": "14 anos",
+        "duracao": "97 min",
+        "nota": 7.8,
+        "resumo": "Cinco estudantes de ensino médio com estereótipos diferentes passam um sábado juntos na detenção e descobrem que têm muito em comum.",
+        "semelhantes": [
+            "Curtindo a Vida Adoidado",
+            "Gatinhas e Gatões",
+            "Sociedade dos Poetas Mortos"
+        ]
+    },
+    {
+        "titulo": "Curtindo a Vida Adoidado",
+        "ano": 1986,
+        "diretor": "John Hughes",
+        "elenco": [
+            "Matthew Broderick",
+            "Alan Ruck",
+            "Mia Sara"
+        ],
+        "genero": "Comédia",
+        "classificacao": "Livre",
+        "duracao": "103 min",
+        "nota": 7.8,
+        "resumo": "Um estudante finge estar doente para matar aula e passa um dia inesquecível em Chicago com seus amigos.",
+        "semelhantes": [
+            "Clube dos Cinco",
+            "Negócio Arriscado",
+            "Superbad"
+        ]
+    },
+    {
+        "titulo": "Sociedade dos Poetas Mortos",
+        "ano": 1989,
+        "diretor": "Peter Weir",
+        "elenco": [
+            "Robin Williams",
+            "Ethan Hawke",
+            "Robert Sean Leonard"
+        ],
+        "genero": "Drama",
+        "classificacao": "12 anos",
+        "duracao": "128 min",
+        "nota": 8.1,
+        "resumo": "Um professor de poesia nada ortodoxo inspira seus alunos de uma escola tradicional a encararem suas vidas com paixão.",
+        "semelhantes": [
+            "Gênio Indomável",
+            "Encontrando Forrester",
+            "Prenda-me se for Capaz"
+        ]
+    },
+    {
+        "titulo": "Gênio Indomável",
+        "ano": 1997,
+        "diretor": "Gus Van Sant",
+        "elenco": [
+            "Matt Damon",
+            "Robin Williams",
+            "Ben Affleck"
+        ],
+        "genero": "Drama",
+        "classificacao": "14 anos",
+        "duracao": "126 min",
+        "nota": 8.3,
+        "resumo": "Um jovem zelador do MIT que possui um intelecto genial precisa da ajuda de um terapeuta para encontrar direção na vida.",
+        "semelhantes": [
+            "Sociedade dos Poetas Mortos",
+            "Uma Mente Brilhante",
+            "À Procura da Felicidade"
+        ]
+    },
+    {
+        "titulo": "Uma Mente Brilhante",
+        "ano": 2001,
+        "diretor": "Ron Howard",
+        "elenco": [
+            "Russell Crowe",
+            "Ed Harris",
+            "Jennifer Connelly"
+        ],
+        "genero": "Biografia/Drama",
+        "classificacao": "12 anos",
+        "duracao": "135 min",
+        "nota": 8.2,
+        "resumo": "A vida do matemático John Nash, que lida com a esquizofrenia enquanto faz descobertas revolucionárias em sua área.",
+        "semelhantes": [
+            "Gênio Indomável",
+            "O Jogo da Imitação",
+            "A Teoria de Tudo"
+        ]
+    },
+    {
+        "titulo": "O Jogo da Imitação",
+        "ano": 2014,
+        "diretor": "Morten Tyldum",
+        "elenco": [
+            "Benedict Cumberbatch",
+            "Keira Knightley",
+            "Matthew Goode"
+        ],
+        "genero": "Biografia/Drama",
+        "classificacao": "12 anos",
+        "duracao": "114 min",
+        "nota": 8.0,
+        "resumo": "Durante a Segunda Guerra Mundial, o matemático Alan Turing lidera uma equipe para decifrar a máquina alemã Enigma.",
+        "semelhantes": [
+            "A Teoria de Tudo",
+            "Uma Mente Brilhante",
+            "O Homem que Viu o Infinito"
+        ]
+    },
+    {
+        "titulo": "A Teoria de Tudo",
+        "ano": 2014,
+        "diretor": "James Marsh",
+        "elenco": [
+            "Eddie Redmayne",
+            "Felicity Jones",
+            "Charlie Cox"
+        ],
+        "genero": "Biografia/Drama",
+        "classificacao": "10 anos",
+        "duracao": "123 min",
+        "nota": 7.7,
+        "resumo": "A cinebiografia do famoso físico Stephen Hawking, focando em suas descobertas científicas e seu relacionamento com Jane Wilde.",
+        "semelhantes": [
+            "O Jogo da Imitação",
+            "O Brilho de uma Paixão",
+            "Divertida Mente"
+        ]
+    },
+    {
+        "titulo": "Brilho Eterno de uma Mente sem Lembranças",
+        "ano": 2004,
+        "diretor": "Michel Gondry",
+        "elenco": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Kirsten Dunst"
+        ],
+        "genero": "Romance/Ficção Científica",
+        "classificacao": "14 anos",
+        "duracao": "108 min",
+        "nota": 8.3,
+        "resumo": "Um casal decide se submeter a um procedimento médico experimental para apagar um ao outro de suas memórias.",
+        "semelhantes": [
+            "O Show de Truman",
+            "Ela",
+            "Quero Ser John Malkovich"
+        ]
+    },
+    {
+        "titulo": "Ela",
+        "ano": 2013,
+        "diretor": "Spike Jonze",
+        "elenco": [
+            "Joaquin Phoenix",
+            "Scarlett Johansson",
+            "Amy Adams"
+        ],
+        "genero": "Romance/Ficção Científica",
+        "classificacao": "14 anos",
+        "duracao": "126 min",
+        "nota": 8.0,
+        "resumo": "Em um futuro próximo, um escritor solitário desenvolve um relacionamento amoroso incomum com o sistema operacional de seu computador.",
+        "semelhantes": [
+            "Brilho Eterno de uma Mente sem Lembranças",
+            "Ex Machina",
+            "Encontros e Desencontros"
+        ]
+    },
+    {
+        "titulo": "Ex Machina: Instinto Artificial",
+        "ano": 2014,
+        "diretor": "Alex Garland",
+        "elenco": [
+            "Domhnall Gleeson",
+            "Alicia Vikander",
+            "Oscar Isaac"
+        ],
+        "genero": "Ficção Científica/Suspense",
+        "classificacao": "14 anos",
+        "duracao": "108 min",
+        "nota": 7.7,
+        "resumo": "Um jovem programador é convidado a administrar o teste de Turing em um androide humanoide inteligente criado por seu CEO.",
+        "semelhantes": [
+            "Ela",
+            "Blade Runner 2049",
+            "Minority Report"
+        ]
+    },
+    {
+        "titulo": "Blade Runner: O Caçador de Androides",
+        "ano": 1982,
+        "diretor": "Ridley Scott",
+        "elenco": [
+            "Harrison Ford",
+            "Rutger Hauer",
+            "Sean Young"
+        ],
+        "genero": "Ficção Científica",
+        "classificacao": "14 anos",
+        "duracao": "117 min",
+        "nota": 8.1,
+        "resumo": "Um caçador de recompensas tem a tarefa de rastrear e eliminar quatro clones humanos sintéticos rebeldes que retornaram à Terra.",
+        "semelhantes": [
+            "Blade Runner 2049",
+            "Alien: O Oitavo Passageiro",
+            "O Vingador do Futuro"
+        ]
+    },
+    {
+        "titulo": "Alien: O Oitavo Passageiro",
+        "ano": 1979,
+        "diretor": "Ridley Scott",
+        "elenco": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ],
+        "genero": "Ficção Científica/Terror",
+        "classificacao": "14 anos",
+        "duracao": "117 min",
+        "nota": 8.5,
+        "resumo": "A tripulação de uma nave comercial encontra uma forma de vida fatal que invade o veículo e começa a caçá-los.",
+        "semelhantes": [
+            "Aliens: O Resgate",
+            "O Predador",
+            "A Coisa"
+        ]
+    },
+    {
+        "titulo": "O Iluminado",
+        "ano": 1980,
+        "diretor": "Stanley Kubrick",
+        "elenco": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ],
+        "genero": "Terror/Suspense",
+        "classificacao": "16 anos",
+        "duracao": "146 min",
+        "nota": 8.4,
+        "resumo": "Um escritor aceita um emprego como zelador de inverno em um hotel isolado, onde influências espirituais mudam sua sanidade.",
+        "semelhantes": [
+            "Psicose",
+            "O Bebê de Rosemary",
+            "Doutor Sono"
+        ]
+    },
+    {
+        "titulo": "Psicose",
+        "ano": 1960,
+        "diretor": "Alfred Hitchcock",
+        "elenco": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ],
+        "genero": "Suspense/Terror",
+        "classificacao": "14 anos",
+        "duracao": "109 min",
+        "nota": 8.5,
+        "resumo": "Uma secretária foge com dinheiro roubado e se hospeda em um motel isolado administrado por um jovem excêntrico e sua mãe.",
+        "semelhantes": [
+            "O Iluminado",
+            "Um Corpo que Cai",
+            "Janela Indiscreta"
+        ]
+    },
+    {
+        "titulo": "Janela Indiscreta",
+        "ano": 1954,
+        "diretor": "Alfred Hitchcock",
+        "elenco": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey"
+        ],
+        "genero": "Suspense/Mistério",
+        "classificacao": "12 anos",
+        "duracao": "112 min",
+        "nota": 8.5,
+        "resumo": "Um fotógrafo confinado a uma cadeira de rodas espiona seus vizinhos e se convence de que um deles cometeu um assassinato.",
+        "semelhantes": [
+            "Um Corpo que Cai",
+            "Disque M para Matar",
+            "Os Suspeitos"
+        ]
+    },
+    {
+        "titulo": "Se7en: Os Sete Crimes Capitais",
+        "ano": 1995,
+        "diretor": "David Fincher",
+        "elenco": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ],
+        "genero": "Policial/Suspense",
+        "classificacao": "16 anos",
+        "duracao": "127 min",
+        "nota": 8.6,
+        "resumo": "Dois detetives caçam um assassino em série engenhoso cujos crimes brutais são inspirados nos sete pecados capitais.",
+        "semelhantes": [
+            "O Silêncio dos Inocentes",
+            "Zodíaco",
+            "Os Suspeitos"
+        ]
+    },
+    {
+        "titulo": "Os Suspeitos",
+        "ano": 1995,
+        "diretor": "Bryan Singer",
+        "elenco": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ],
+        "genero": "Mistério/Policial",
+        "classificacao": "14 anos",
+        "duracao": "106 min",
+        "nota": 8.5,
+        "resumo": "O único sobrevivente de um massacre em um navio conta à polícia os eventos que levaram a um lendário criminoso chamado Keyser Söze.",
+        "semelhantes": [
+            "Se7en",
+            "As Duas Faces de um Crime",
+            "Garota Exemplar"
+        ]
+    },
+    {
+        "titulo": "Garota Exemplar",
+        "ano": 2014,
+        "diretor": "David Fincher",
+        "elenco": [
+            "Ben Affleck",
+            "Rosamund Pike",
+            "Neil Patrick Harris"
+        ],
+        "genero": "Suspense/Mistério",
+        "classificacao": "16 anos",
+        "duracao": "149 min",
+        "nota": 8.1,
+        "resumo": "Com o desaparecimento repentino de sua esposa, um homem vê o foco da mídia e as suspeitas da polícia recaírem sobre ele.",
+        "semelhantes": [
+            "Ilha do Medo",
+            "Zodíaco",
+            "Sobre Meninos e Lobos"
+        ]
+    },
+    {
+        "titulo": "Ilha do Medo",
+        "ano": 2010,
+        "diretor": "Martin Scorsese",
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Mark Ruffalo",
+            "Ben Kingsley"
+        ],
+        "genero": "Mistério/Suspense",
+        "classificacao": "16 anos",
+        "duracao": "138 min",
+        "nota": 8.2,
+        "resumo": "Em 1954, um xerife federal investiga o desaparecimento de uma assassina que fugiu de um hospital psiquiátrico em uma ilha isolada.",
+        "semelhantes": [
+            "A Origem",
+            "Os Infiltrados",
+            "Garota Exemplar"
+        ]
+    },
+    {
+        "titulo": "Os Infiltrados",
+        "ano": 2006,
+        "diretor": "Martin Scorsese",
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ],
+        "genero": "Policial/Drama",
+        "classificacao": "16 anos",
+        "duracao": "151 min",
+        "nota": 8.5,
+        "resumo": "Um policial disfarçado se infiltra na máfia, enquanto um criminoso se infiltra na polícia de Boston, ambos tentando se identificar.",
+        "semelhantes": [
+            "Bons Companheiros",
+            "Fogo contra Fogo",
+            "Cassino"
+        ]
+    },
+    {
+        "titulo": "Bons Companheiros",
+        "ano": 1990,
+        "diretor": "Martin Scorsese",
+        "elenco": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ],
+        "genero": "Crime/Drama",
+        "classificacao": "16 anos",
+        "duracao": "145 min",
+        "nota": 8.7,
+        "resumo": "A história de Henry Hill e sua ascensão e queda dentro do mundo da máfia de Nova York.",
+        "semelhantes": [
+            "O Poderoso Chefão",
+            "Cassino",
+            "Scarface"
+        ]
+    },
+    {
+        "titulo": "Scarface",
+        "ano": 1983,
+        "diretor": "Brian De Palma",
+        "elenco": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "Steven Bauer"
+        ],
+        "genero": "Crime/Drama",
+        "classificacao": "18 anos",
+        "duracao": "170 min",
+        "nota": 8.3,
+        "resumo": "Um refugiado cubano chega a Miami e assume o controle de um cartel de drogas, sucumbindo à ganância.",
+        "semelhantes": [
+            "Bons Companheiros",
+            "O Pagamento Final",
+            "O Poderoso Chefão"
+        ]
+    },
+    {
+        "titulo": "Um Sonho de Liberdade",
+        "ano": 1994,
+        "diretor": "Frank Darabont",
+        "elenco": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "genero": "Drama",
+        "classificacao": "14 anos",
+        "duracao": "142 min",
+        "nota": 9.3,
+        "resumo": "Dois homens presos criam um forte vínculo ao longo dos anos, encontrando consolo e redenção através de atos de decência comum.",
+        "semelhantes": [
+            "À Espera de um Milagre",
+            "Papillon",
+            "Fuga de Alcatraz"
+        ]
+    },
+    {
+        "titulo": "À Espera de um Milagre",
+        "ano": 1999,
+        "diretor": "Frank Darabont",
+        "elenco": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ],
+        "genero": "Drama/Fantasia",
+        "classificacao": "14 anos",
+        "duracao": "189 min",
+        "nota": 8.6,
+        "resumo": "O guarda do corredor da morte de uma prisão descobre que um de seus prisioneiros possui um dom misterioso e milagroso.",
+        "semelhantes": [
+            "Um Sonho de Liberdade",
+            "Forrest Gump",
+            "O Resgate do Soldado Ryan"
+        ]
+    },
+    {
+        "titulo": "O Resgate do Soldado Ryan",
+        "ano": 1998,
+        "diretor": "Steven Spielberg",
+        "elenco": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ],
+        "genero": "Guerra/Ação",
+        "classificacao": "14 anos",
+        "duracao": "169 min",
+        "nota": 8.6,
+        "resumo": "Após os desembarques na Normandia, um grupo de soldados dos EUA vai atrás das linhas inimigas para resgatar um paraquedista.",
+        "semelhantes": [
+            "Corações de Ferro",
+            "Platoon",
+            "1917"
+        ]
+    },
+    {
+        "titulo": "1917",
+        "ano": 2019,
+        "diretor": "Sam Mendes",
+        "elenco": [
+            "George MacKay",
+            "Dean-Charles Chapman",
+            "Mark Strong"
+        ],
+        "genero": "Guerra/Drama",
+        "classificacao": "14 anos",
+        "duracao": "119 min",
+        "nota": 8.2,
+        "resumo": "Durante a Primeira Guerra Mundial, dois jovens soldados britânicos recebem uma missão impossível de entregar uma mensagem contra o tempo.",
+        "semelhantes": [
+            "O Resgate do Soldado Ryan",
+            "Dunkirk",
+            "Nada de Novo no Front"
+        ]
+    },
+    {
+        "titulo": "Dunkirk",
+        "ano": 2017,
+        "diretor": "Christopher Nolan",
+        "elenco": [
+            "Fionn Whitehead",
+            "Tom Hardy",
+            "Cillian Murphy"
+        ],
+        "genero": "Guerra/História",
+        "classificacao": "14 anos",
+        "duracao": "106 min",
+        "nota": 7.8,
+        "resumo": "Soldados aliados da Bélgica, do Império Britânico e da França são cercados pelo exército alemão durante uma feroz batalha na Segunda Guerra.",
+        "semelhantes": [
+            "1917",
+            "Até o Último Homem",
+            "O Destino de uma Nação"
+        ]
+    },
+    {
+        "titulo": "Até o Último Homem",
+        "ano": 2016,
+        "diretor": "Mel Gibson",
+        "elenco": [
+            "Andrew Garfield",
+            "Sam Worthington",
+            "Luke Bracey"
+        ],
+        "genero": "Guerra/Biografia",
+        "classificacao": "16 anos",
+        "duracao": "139 min",
+        "nota": 8.1,
+        "resumo": "A história real do médico do exército americano Desmond T. Doss, que se recusou a portar armas por convicção religiosa na Segunda Guerra.",
+        "semelhantes": [
+            "Corações de Ferro",
+            "1917",
+            "Sniper Americano"
+        ]
+    },
+    {
+        "titulo": "Whiplash: Em Busca da Perfeição",
+        "ano": 2014,
+        "diretor": "Damien Chazelle",
+        "elenco": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Paul Reiser"
+        ],
+        "genero": "Drama/Música",
+        "classificacao": "12 anos",
+        "duracao": "106 min",
+        "nota": 8.5,
+        "resumo": "Um jovem e promissor baterista de jazz se matricula em um conservatório musical impiedoso, onde um instrutor o leva ao limite.",
+        "semelhantes": [
+            "La La Land",
+            "Cisne Negro",
+            "O Abutre"
+        ]
+    },
+    {
+        "titulo": "La La Land: Cantando Estações",
+        "ano": 2016,
+        "diretor": "Damien Chazelle",
+        "elenco": [
+            "Ryan Gosling",
+            "Emma Stone"
+        ],
+        "genero": "Musical/Romance",
+        "classificacao": "Livre",
+        "duracao": "128 min",
+        "nota": 8.0,
+        "resumo": "Enquanto perseguem seus sonhos in Los Angeles, um pianista de jazz e uma aspirante a atriz se apaixonam.",
+        "semelhantes": [
+            "Whiplash",
+            "Nasce uma Estrela",
+            "Moulin Rouge"
+        ]
+    },
+    {
+        "titulo": "Nasce uma Estrela",
+        "ano": 2018,
+        "diretor": "Bradley Cooper",
+        "elenco": [
+            "Lady Gaga",
+            "Bradley Cooper",
+            "Sam Elliott"
+        ],
+        "genero": "Drama/Música",
+        "classificacao": "16 anos",
+        "duracao": "136 min",
+        "nota": 7.6,
+        "resumo": "Um músico experiente descobre e se apaixona por uma artista esforçada que está quase desistindo de seu sonho.",
+        "semelhantes": [
+            "La La Land",
+            "Bohemian Rhapsody",
+            "Mesmo Se Nada Der Certo"
+        ]
+    },
+    {
+        "titulo": "Bohemian Rhapsody",
+        "ano": 2018,
+        "diretor": "Bryan Singer",
+        "elenco": [
+            "Rami Malek",
+            "Lucy Boynton",
+            "Gwilym Lee"
+        ],
+        "genero": "Biografia/Música",
+        "classificacao": "14 anos",
+        "duracao": "134 min",
+        "nota": 7.9,
+        "resumo": "A celebração da banda Queen, sua música e seu extraordinário vocalista Freddie Mercury, culminando na apresentação no Live Aid.",
+        "semelhantes": [
+            "Rocketman",
+            "Nasce uma Estrela",
+            "Elvis"
+        ]
+    },
+    {
+        "titulo": "Parasita",
+        "ano": 2019,
+        "diretor": "Bong Joon Ho",
+        "elenco": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ],
+        "genero": "Suspense/Drama",
+        "classificacao": "16 anos",
+        "duracao": "132 min",
+        "nota": 8.5,
+        "resumo": "A ganância e a discriminação de classes ameaçam o relacionamento recém-formado entre a rica família Park e o clã Kim.",
+        "semelhantes": [
+            "O Quarto de Jack",
+            "Em Chamas",
+            "Corra!"
+        ]
+    },
+    {
+        "titulo": "Corra!",
+        "ano": 2017,
+        "diretor": "Jordan Peele",
+        "elenco": [
+            "Daniel Kaluuya",
+            "Allison Williams",
+            "Bradley Whitford"
+        ],
+        "genero": "Terror/Suspense",
+        "classificacao": "14 anos",
+        "duracao": "104 min",
+        "nota": 7.8,
+        "resumo": "Um jovem fotógrafo negro descobre segredos sombrios e perturbadores quando visita a propriedade da família de sua namorada branca.",
+        "semelhantes": [
+            "Nós",
+            "Não! Não Olhe!",
+            "O Homem Invisível"
+        ]
+    },
+    {
+        "titulo": "Mad Max: Estrada da Fúria",
+        "ano": 2015,
+        "diretor": "George Miller",
+        "elenco": [
+            "Tom Hardy",
+            "Charlize Theron",
+            "Nicholas Hoult"
+        ],
+        "genero": "Ação/Ficção Científica",
+        "classificacao": "14 anos",
+        "duracao": "120 min",
+        "nota": 8.1,
+        "resumo": "Em um futuro pós-apocalíptico, uma mulher se rebela contra um governante tirânico em busca de sua terra natal com a ajuda de Max.",
+        "semelhantes": [
+            "Blade Runner 2049",
+            "Duna",
+            "Matrix"
+        ]
+    },
+    {
+        "titulo": "Duna",
+        "ano": 2021,
+        "diretor": "Denis Villeneuve",
+        "elenco": [
+            "Timothée Chalamet",
+            "Rebecca Ferguson",
+            "Zendaya"
+        ],
+        "genero": "Ficção Científica/Aventura",
+        "classificacao": "14 anos",
+        "duracao": "155 min",
+        "nota": 8.0,
+        "resumo": "O herdeiro de uma família nobre assume o controle de um planeta desértico que possui o recurso mais valioso do universo.",
+        "semelhantes": [
+            "Duna: Parte Dois",
+            "Blade Runner 2049",
+            "Interestelar"
+        ]
+    },
+    {
+        "titulo": "O Labirinto do Fauno",
+        "ano": 2006,
+        "diretor": "Guillermo del Toro",
+        "elenco": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi López"
+        ],
+        "genero": "Fantasia/Drama",
+        "classificacao": "16 anos",
+        "duracao": "118 min",
+        "nota": 8.2,
+        "resumo": "Na Espanha fascista de 1944, a jovem enteada de um sádico oficial do exército foge para um mundo de fantasia misterioso.",
+        "semelhantes": [
+            "A Forma da Água",
+            "Contos da Escuridão",
+            "As Crônicas de Nárnia"
+        ]
+    },
+    {
+        "titulo": "A Forma da Água",
+        "ano": 2017,
+        "diretor": "Guillermo del Toro",
+        "elenco": [
+            "Sally Hawkins",
+            "Octavia Spencer",
+            "Michael Shannon"
+        ],
+        "genero": "Fantasia/Romance",
+        "classificacao": "16 anos",
+        "duracao": "123 min",
+        "nota": 7.3,
+        "resumo": "Em um laboratório secreto do governo na década de 1960, uma zeladora muda se conecta afetivamente com uma criatura anfíbia capturada.",
+        "semelhantes": [
+            "O Labirinto do Fauno",
+            "Edward Mãos de Tesoura",
+            "King Kong"
+        ]
+    },
+    {
+        "titulo": "Que Horas Ela Volta?",
+        "ano": 2015,
+        "diretor": "Anna Muylaert",
+        "elenco": [
+            "Regina Casé",
+            "Camila Márdila",
+            "Michel Joelsas"
+        ],
+        "genero": "Drama",
+        "classificacao": "12 anos",
+        "duracao": "112 min",
+        "nota": 7.9,
+        "resumo": "A chegada da filha de uma empregada doméstica de São Paulo que veio prestar vestibular expõe as barreiras de classe na casa dos patrões.",
+        "semelhantes": [
+            "Aquarius",
+            "Central do Brasil",
+            "Casa Grande"
+        ]
+    },
+    {
+        "titulo": "Aquarius",
+        "ano": 2016,
+        "diretor": "Kleber Mendonça Filho",
+        "elenco": [
+            "Sônia Braga",
+            "Maeve Jinkings",
+            "Irandhir Santos"
+        ],
+        "genero": "Drama",
+        "classificacao": "16 anos",
+        "duracao": "146 min",
+        "nota": 7.9,
+        "resumo": "Uma jornalista aposentada e viúva recusa-se a vender seu apartamento para uma construtora que comprou todos os outros imóveis do prédio.",
+        "semelhantes": [
+            "Bacurau",
+            "Que Horas Ela Volta?",
+            "O Som ao Redor"
+        ]
+    },
+    {
+        "titulo": "Bacurau",
+        "ano": 2019,
+        "diretor": "Kleber Mendonça Filho, Juliano Dornelles",
+        "elenco": [
+            "Sônia Braga",
+            "Udo Kier",
+            "Barbara Colen"
+        ],
+        "genero": "Suspense/Ficção Científica",
+        "classificacao": "16 anos",
+        "duracao": "131 min",
+        "nota": 7.5,
+        "resumo": "Um pequeno povoado no sertão brasileiro desaparece dos mapas e os moradores descobrem que estão sendo caçados por estrangeiros.",
+        "semelhantes": [
+            "Aquarius",
+            "O Som ao Redor",
+            "Tropa de Elite"
+        ]
+    },
+    {
+        "titulo": "O Homem do Futuro",
+        "ano": 2011,
+        "diretor": "Cláudio Torres",
+        "elenco": [
+            "Wagner Moura",
+            "Alinne Moraes",
+            "Gabriel Braga Nunes"
+        ],
+        "genero": "Ficção Científica/Comédia",
+        "classificacao": "12 anos",
+        "duracao": "106 min",
+        "nota": 7.0,
+        "resumo": "Um cientista brilhante inventa uma máquina do tempo acidentalmente e volta para a época da faculdade para tentar reconquistar o amor de sua vida.",
+        "semelhantes": [
+            "De Volta para o Futuro",
+            "Questão de Tempo",
+            "E Se Fosse Verdade"
+        ]
+    },
+    {
+        "titulo": "Questão de Tempo",
+        "ano": 2013,
+        "diretor": "Richard Curtis",
+        "elenco": [
+            "Domhnall Gleeson",
+            "Rachel McAdams",
+            "Bill Nighy"
+        ],
+        "genero": "Romance/Drama",
+        "classificacao": "12 anos",
+        "duracao": "123 min",
+        "nota": 7.8,
+        "resumo": "Ao completar 21 anos, um jovem descobre que os homens de sua família têm a habilidade de viajar no tempo para mudar suas próprias vidas.",
+        "semelhantes": [
+            "Como Se Fosse a Primeira Vez",
+            "O Homem do Futuro",
+            "Brilho Eterno de uma Mente sem Lembranças"
+        ]
+    },
+    {
+        "titulo": "Como Se Fosse a Primeira Vez",
+        "ano": 2004,
+        "diretor": "Peter Segal",
+        "elenco": [
+            "Adam Sandler",
+            "Drew Barrymore",
+            "Rob Schneider"
+        ],
+        "genero": "Comédia/Romance",
+        "classificacao": "Livre",
+        "duracao": "99 min",
+        "nota": 6.8,
+        "resumo": "Um veterinário marinho se apaixona por uma professora de arte que sofre de perda de memória de curto prazo e precisa conquistá-la todos os dias.",
+        "semelhantes": [
+            "Questão de Tempo",
+            "Clique",
+            "Esposa de Mentirinha"
+        ]
+    },
+    {
+        "titulo": "Clique",
+        "ano": 2006,
+        "diretor": "Frank Coraci",
+        "elenco": [
+            "Adam Sandler",
+            "Kate Beckinsale",
+            "Christopher Walken"
+        ],
+        "genero": "Comédia/Drama",
+        "classificacao": "12 anos",
+        "duracao": "107 min",
+        "nota": 6.9,
+        "resumo": "Um arquiteto viciado em trabalho encontra um controle remoto universal que lhe permite avançar e pausar partes de sua vida.",
+        "semelhantes": [
+            "Como Se Fosse a Primeira Vez",
+            "O Mentiroso",
+            "Todo Poderoso"
+        ]
+    },
+    {
+        "titulo": "Todo Poderoso",
+        "ano": 2003,
+        "diretor": "Tom Shadyac",
+        "elenco": [
+            "Jim Carrey",
+            "Morgan Freeman",
+            "Jennifer Aniston"
+        ],
+        "genero": "Comédia/Fantasia",
+        "classificacao": "Livre",
+        "duracao": "101 min",
+        "nota": 6.8,
+        "resumo": "Um repórter de TV que reclama constantemente de Deus recebe os poderes divinos por uma semana para ver se consegue fazer um trabalho melhor.",
+        "semelhantes": [
+            "O Mentiroso",
+            "Clique",
+            "Ace Ventura"
+        ]
+    },
+    {
+        "titulo": "O Mentiroso",
+        "ano": 1997,
+        "diretor": "Tom Shadyac",
+        "elenco": [
+            "Jim Carrey",
+            "Maura Tierney",
+            "Justin Cooper"
+        ],
+        "genero": "Comédia",
+        "classificacao": "Livre",
+        "duracao": "86 min",
+        "nota": 6.9,
+        "resumo": "O desejo de aniversário de um garoto faz com que seu pai, um advogado focado na carreira, passe 24 horas sem conseguir mentir.",
+        "semelhantes": [
+            "Todo Poderoso",
+            "O Show de Truman",
+            "Sim Senhor"
+        ]
+    },
+    {
+        "titulo": "À Procura da Felicidade",
+        "ano": 2006,
+        "diretor": "Gabriele Muccino",
+        "elenco": [
+            "Will Smith",
+            "Jaden Smith",
+            "Thandiwe Newton"
+        ],
+        "genero": "Drama/Biografia",
+        "classificacao": "Livre",
+        "duracao": "117 min",
+        "nota": 8.0,
+        "resumo": "Um vendedor esforçado assume a custódia de seu filho pequeno enquanto tenta iniciar uma carreira profissional não remunerada em uma corretora.",
+        "semelhantes": [
+            "Sete Vidas",
+            "Gênio Indomável",
+            "O Contador de Histórias"
+        ]
+    },
+    {
+        "titulo": "Sete Vidas",
+        "ano": 2008,
+        "diretor": "Gabriele Muccino",
+        "elenco": [
+            "Will Smith",
+            "Rosario Dawson",
+            "Woody Harrelson"
+        ],
+        "genero": "Drama/Romance",
+        "classificacao": "12 anos",
+        "duracao": "123 min",
+        "nota": 7.6,
+        "resumo": "Um homem com um segredo trágico decide mudar radicalmente a vida de sete estranhos que merecem uma segunda chance.",
+        "semelhantes": [
+            "À Procura da Felicidade",
+            "Beleza Oculta",
+            "Um Olhar do Paraíso"
+        ]
+    },
+    {
+        "titulo": "Estrelas Além do Tempo",
+        "ano": 2016,
+        "diretor": "Theodore Melfi",
+        "elenco": [
+            "Taraji P. Henson",
+            "Octavia Spencer",
+            "Janelle Monáe"
+        ],
+        "genero": "História/Drama",
+        "classificacao": "Livre",
+        "duracao": "127 min",
+        "nota": 7.8,
+        "resumo": "A história verídica de uma equipe de matemáticas negras que desempenhou um papel vital na NASA durante os primeiros anos do programa espacial.",
+        "semelhantes": [
+            "Histórias Cruzadas",
+            "O Jogo da Imitação",
+            "Green Book: O Guia"
+        ]
+    },
+    {
+        "titulo": "Histórias Cruzadas",
+        "ano": 2011,
+        "diretor": "Tate Taylor",
+        "elenco": [
+            "Emma Stone",
+            "Viola Davis",
+            "Octavia Spencer"
+        ],
+        "genero": "Drama",
+        "classificacao": "12 anos",
+        "duracao": "146 min",
+        "nota": 8.0,
+        "resumo": "Uma aspirante a autora durante o movimento dos direitos civis nos anos 60 decide escrever um livro sob a perspectiva das empregadas domésticas negras.",
+        "semelhantes": [
+            "Estrelas Além do Tempo",
+            "Green Book: O Guia",
+            "O Sol é para Todos"
+        ]
+    },
+    {
+        "titulo": "Green Book: O Guia",
+        "ano": 2018,
+        "diretor": "Peter Farrelly",
+        "elenco": [
+            "Viggo Mortensen",
+            "Mahershala Ali",
+            "Linda Cardellini"
+        ],
+        "genero": "Biografia/Drama",
+        "classificacao": "12 anos",
+        "duracao": "130 min",
+        "nota": 8.2,
+        "resumo": "Um segurança ítalo-americano torna-se o motorista de um pianista clássico negro durante uma turnê pelo sul dos EUA nos anos 1960.",
+        "semelhantes": [
+            "Histórias Cruzadas",
+            "Intocáveis",
+            "Estrelas Além do Tempo"
+        ]
+    },
+    {
+        "titulo": "Intocáveis",
+        "ano": 2011,
+        "diretor": "Olivier Nakache, Éric Toledano",
+        "elenco": [
+            "François Cluzet",
+            "Omar Sy"
+        ],
+        "genero": "Comédia/Drama",
+        "classificacao": "14 anos",
+        "duracao": "112 min",
+        "nota": 8.5,
+        "resumo": "Depois que um aristocrata fica tetraplégico devido a um acidente de parapente, ele contrata um jovem problemático para ser seu cuidador.",
+        "semelhantes": [
+            "Green Book: O Guia",
+            "Antes de Partir",
+            "Como Eu Era Antes de Você"
+        ]
+    },
+    {
+        "titulo": "Como Eu Era Antes de Você",
+        "ano": 2016,
+        "diretor": "Thea Sharrock",
+        "elenco": [
+            "Emilia Clarke",
+            "Sam Claflin",
+            "Janet McTeer"
+        ],
+        "genero": "Romance/Drama",
+        "classificacao": "12 anos",
+        "duracao": "110 min",
+        "nota": 7.4,
+        "resumo": "Uma jovem alegre é contratada para cuidar de um homem rico e cínico que ficou paralisado após um acidente recente.",
+        "semelhantes": [
+            "Intocáveis",
+            "A Culpa é das Estrelas",
+            "Um Amor para Recordar"
+        ]
+    },
+    {
+        "titulo": "A Culpa é das Estrelas",
+        "ano": 2014,
+        "diretor": "Josh Boone",
+        "elenco": [
+            "Shailene Woodley",
+            "Ansel Elgort",
+            "Nat Wolff"
+        ],
+        "genero": "Romance/Drama",
+        "classificacao": "12 anos",
+        "duracao": "126 min",
+        "nota": 7.7,
+        "resumo": "Dois adolescentes pacientes de câncer se conhecem em um grupo de apoio e iniciam uma jornada para visitar um autor recluso em Amsterdã.",
+        "semelhantes": [
+            "Como Eu Era Antes de Você",
+            "Um Amor para Recordar",
+            "Cidades de Papel"
+        ]
+    },
+    {
+        "titulo": "Um Amor para Recordar",
+        "ano": 2002,
+        "diretor": "Adam Shankman",
+        "elenco": [
+            "Mandy Moore",
+            "Shane West",
+            "Peter Coyote"
+        ],
+        "genero": "Romance/Drama",
+        "classificacao": "Livre",
+        "duracao": "101 min",
+        "nota": 7.3,
+        "resumo": "A história de dois adolescentes da Carolina do Norte que são unidos após o rapaz ser obrigado a fazer serviço comunitário.",
+        "semelhantes": [
+            "A Culpa é das Estrelas",
+            "Diário de uma Paixão",
+            "Querido John"
+        ]
+    },
+    {
+        "titulo": "Diário de uma Paixão",
+        "ano": 2004,
+        "diretor": "Nick Cassavetes",
+        "elenco": [
+            "Ryan Gosling",
+            "Rachel McAdams",
+            "James Garner"
+        ],
+        "genero": "Romance/Drama",
+        "classificacao": "14 anos",
+        "duracao": "123 min",
+        "nota": 7.8,
+        "resumo": "Um homem idoso lê a história de amor de dois jovens de classes sociais separadas na década de 1940 para uma colega de asilo.",
+        "semelhantes": [
+            "Titanic",
+            "Um Amor para Recordar",
+            "Querido John"
+        ]
+    },
+    {
+        "titulo": "Procurando Nemo",
+        "ano": 2003,
+        "diretor": "Andrew Stanton",
+        "elenco": [
+            "Albert Brooks",
+            "Ellen DeGeneres",
+            "Alexander Gould"
+        ],
+        "genero": "Animação/Aventura",
+        "classificacao": "Livre",
+        "duracao": "100 min",
+        "nota": 8.2,
+        "resumo": "Após seu filho ser capturado na Grande Barreira de Corais e levado para Sydney, um peixe-palhaço tímido parte em uma jornada de resgate.",
+        "semelhantes": [
+            "Procurando Dory",
+            "Monstros S.A.",
+            "Toy Story"
+        ]
+    },
+    {
+        "titulo": "Monstros S.A.",
+        "ano": 2001,
+        "diretor": "Pete Docter",
+        "elenco": [
+            "John Goodman",
+            "Billy Crystal",
+            "Mary Gibbs"
+        ],
+        "genero": "Animação/Comédia",
+        "classificacao": "Livre",
+        "duracao": "92 min",
+        "nota": 8.1,
+        "resumo": "Para gerar energia, monstros precisam assustar crianças, mas tudo muda quando uma garotinha humana invade acidentalmente seu mundo.",
+        "semelhantes": [
+            "Universidade Monstros",
+            "Toy Story",
+            "Procurando Nemo"
+        ]
+    },
+    {
+        "titulo": "Wall-E",
+        "ano": 2008,
+        "diretor": "Andrew Stanton",
+        "elenco": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin"
+        ],
+        "genero": "Animação/Ficção Científica",
+        "classificacao": "Livre",
+        "duracao": "98 min",
+        "nota": 8.4,
+        "resumo": "No futuro, um pequeno robô coletor de lixo deixado para trás na Terra abandonada embarca em uma jornada espacial que mudará o destino da humanidade.",
+        "semelhantes": [
+            "Up: Altas Aventuras",
+            "Ratatouille",
+            "Robôs"
+        ]
+    },
+    {
+        "titulo": "Up: Altas Aventuras",
+        "ano": 2009,
+        "diretor": "Pete Docter",
+        "elenco": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "Christopher Plummer"
+        ],
+        "genero": "Animação/Aventura",
+        "classificacao": "Livre",
+        "duracao": "96 min",
+        "nota": 8.3,
+        "resumo": "Um idoso viúvo amarra milhares de balões à sua casa para voar em direção à América do Sul, levando acidentalmente um jovem escoteiro.",
+        "semelhantes": [
+            "Wall-E",
+            "Ratatouille",
+            "Viva: A Vida é uma Festa"
+        ]
+    },
+    {
+        "titulo": "Viva: A Vida é uma Festa",
+        "ano": 2017,
+        "diretor": "Lee Unkrich",
+        "elenco": [
+            "Anthony Gonzalez",
+            "Gael García Bernal",
+            "Benjamin Bratt"
+        ],
+        "genero": "Animação/Família",
+        "classificacao": "Livre",
+        "duracao": "105 min",
+        "nota": 8.4,
+        "resumo": "Um aspirante a músico confronta a proibição ancestral de música de sua família e entra na Terra dos Mortos para encontrar seu tataravô.",
+        "semelhantes": [
+            "Divertida Mente",
+            "Up: Altas Aventuras",
+            "Soul"
+        ]
+    },
+    {
+        "titulo": "Divertida Mente",
+        "ano": 2015,
+        "diretor": "Pete Docter",
+        "elenco": [
+            "Amy Poehler",
+            "Phyllis Smith",
+            "Richard Kind"
+        ],
+        "genero": "Animação/Comédia",
+        "classificacao": "Livre",
+        "duracao": "95 min",
+        "nota": 8.1,
+        "resumo": "Após se mudar para uma nova cidade, as emoções de uma jovem — Alegria, Tristeza, Medo, Raiva e Nojinho — entram em conflito sobre como navegar na nova vida.",
+        "semelhantes": [
+            "Divertida Mente 2",
+            "Viva: A Vida é uma Festa",
+            "Soul"
+        ]
+    },
+    {
+        "titulo": "Shrek",
+        "ano": 2001,
+        "diretor": "Andrew Adamson, Vicky Jenson",
+        "elenco": [
+            "Mike Myers",
+            "Eddie Murphy",
+            "Cameron Diaz"
+        ],
+        "genero": "Anination/Comédia",
+        "classificacao": "Livre",
+        "duracao": "90 min",
+        "nota": 7.9,
+        "resumo": "Um ogro antissocial tem seu pântano invadido por criaturas de contos de fadas e faz um acordo com um lorde para resgatar uma princesa.",
+        "semelhantes": [
+            "Shrek 2",
+            "Gato de Botas",
+            "Kung Fu Panda"
+        ]
+    },
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "ano": 2001,
+        "diretor": "Chris Columbus",
+        "elenco": [
+            "Daniel Radcliffe",
+            "Rupert Grint",
+            "Emma Watson"
+        ],
+        "genero": "Fantasia/Aventura",
+        "classificacao": "Livre",
+        "duracao": "152 min",
+        "nota": 7.6,
+        "resumo": "Um menino órfão descobre no seu aniversário de 11 anos que é um bruxo e é convidado a estudar na Escola de Magia e Bruxaria de Hogwarts.",
+        "semelhantes": [
+            "Harry Potter e a Câmara Secreta",
+            "O Senhor dos Anéis",
+            "Percy Jackson"
+        ]
+    },
+    {
+        "titulo": "O Labirinto",
+        "ano": 1986,
+        "diretor": "Jim Henson",
+        "elenco": [
+            "David Bowie",
+            "Jennifer Connelly"
+        ],
+        "genero": "Fantasia/Aventura",
+        "classificacao": "Livre",
+        "duracao": "101 min",
+        "nota": 7.3,
+        "resumo": "Uma adolescente precisa resolver um labirinto místico gigante para salvar seu irmãozinho das garras do Rei dos Goblins.",
+        "semelhantes": [
+            "O Cristal Encantado",
+            "A História Sem Fim",
+            "Peter Pan"
+        ]
+    },
+    {
+        "titulo": "A História Sem Fim",
+        "ano": 1984,
+        "diretor": "Wolfgang Petersen",
+        "elenco": [
+            "Barret Oliver",
+            "Noah Hathaway",
+            "Tami Stronach"
+        ],
+        "genero": "Fantasia/Aventura",
+        "classificacao": "Livre",
+        "duracao": "102 min",
+        "nota": 7.3,
+        "resumo": "Um garoto solitário encontra um livro mágico que narra a história de um jovem guerreiro tentando salvar o mundo de Fantasia da destruição.",
+        "semelhantes": [
+            "O Labirinto",
+            "Os Goonies",
+            "Willow: Na Terra da Magia"
+        ]
+    },
+    {
+        "titulo": "Os Goonies",
+        "ano": 1985,
+        "diretor": "Richard Donner",
+        "elenco": [
+            "Sean Astin",
+            "Josh Brolin",
+            "Jeff Cohen"
+        ],
+        "genero": "Aventura/Comédia",
+        "classificacao": "Livre",
+        "duracao": "114 min",
+        "nota": 7.7,
+        "resumo": "Um grupo de garotos encontra um mapa do tesouro antigo e parte em uma aventura subterrânea para salvar suas casas da demolição.",
+        "semelhantes": [
+            "Conta Comigo",
+            "E.T.: O Extraterrestre",
+            "Super 8"
+        ]
+    },
+    {
+        "titulo": "E.T.: O Extraterrestre",
+        "ano": 1982,
+        "diretor": "Steven Spielberg",
+        "elenco": [
+            "Henry Thomas",
+            "Drew Barrymore",
+            "Peter Coyote"
+        ],
+        "genero": "Ficção Científica/Aventura",
+        "classificacao": "Livre",
+        "duracao": "115 min",
+        "nota": 7.9,
+        "resumo": "Um garoto faz amizade com um alienígena gentil que ficou preso na Terra e tenta ajudá-lo a fazer contato com seu planeta natal.",
+        "semelhantes": [
+            "Os Goonies",
+            "Contatos Imediatos do Terceiro Grau",
+            "Super 8"
+        ]
+    },
+    {
+        "titulo": "Conta Comigo",
+        "ano": 1986,
+        "diretor": "Rob Reiner",
+        "elenco": [
+            "Wil Wheaton",
+            "River Phoenix",
+            "Corey Feldman"
+        ],
+        "genero": "Drama/Aventura",
+        "classificacao": "14 anos",
+        "duracao": "89 min",
+        "nota": 8.1,
+        "resumo": "Após o desaparecimento de um garoto local, quatro amigos adolescentes saem em uma jornada ao longo dos trilhos de trem para encontrar o corpo.",
+        "semelhantes": [
+            "Os Goonies",
+            "Clube dos Cinco",
+            "Sociedade dos Poetas Mortos"
+        ]
+    },
+    {
+        "titulo": "O Lobo de Wall Street",
+        "ano": 2013,
+        "diretor": "Martin Scorsese",
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Jonah Hill",
+            "Margot Robbie"
+        ],
+        "genero": "Biografia/Comédia",
+        "classificacao": "18 anos",
+        "duracao": "180 min",
+        "nota": 8.2,
+        "resumo": "A história real de Jordan Belfort, desde sua ascensão como um corretor de ações rico até sua queda envolvendo crimes federais e excessos.",
+        "semelhantes": [
+            "A Grande Aposta",
+            "Os Infiltrados",
+            "Cães de Aluguel"
+        ]
+    },
+    {
+        "titulo": "A Grande Aposta",
+        "ano": 2015,
+        "diretor": "Adam McKay",
+        "elenco": [
+            "Christian Bale",
+            "Steve Carell",
+            "Ryan Gosling"
+        ],
+        "genero": "Biografia/Comédia",
+        "classificacao": "14 anos",
+        "duracao": "130 min",
+        "nota": 7.8,
+        "resumo": "Em 2006, um grupo de investidores nota a fragilidade do mercado imobiliário americano e decide apostar contra o sistema financeiro.",
+        "semelhantes": [
+            "O Lobo de Wall Street",
+            "Margin Call: O Dia Antes do Fim",
+            "Fome de Poder"
+        ]
+    },
+    {
+        "titulo": "Fome de Poder",
+        "ano": 2016,
+        "diretor": "John Lee Hancock",
+        "elenco": [
+            "Michael Keaton",
+            "Nick Offerman",
+            "John Carroll Lynch"
+        ],
+        "genero": "Biografia/Drama",
+        "classificacao": "10 anos",
+        "duracao": "115 min",
+        "nota": 7.2,
+        "resumo": "A história de Ray Kroc, um vendedor que conheceu a inovadora lanchonete dos irmãos McDonald e manobrou para assumir o controle da marca global.",
+        "semelhantes": [
+            "A Rede Social",
+            "A Grande Aposta",
+            "Jobs"
+        ]
+    },
+    {
+        "titulo": "A Rede Social",
+        "ano": 2010,
+        "diretor": "David Fincher",
+        "elenco": [
+            "Jesse Eisenberg",
+            "Andrew Garfield",
+            "Justin Timberlake"
+        ],
+        "genero": "Biografia/Drama",
+        "classificacao": "14 anos",
+        "duracao": "120 min",
+        "nota": 7.8,
+        "resumo": "Enquanto criava o site de rede social que viria a ser conhecido como Facebook, o estudante Mark Zuckerberg enfrenta processos judiciais dos cofundadores.",
+        "semelhantes": [
+            "Steve Jobs",
+            "Fome de Poder",
+            "O Homem que Mudou o Jogo"
+        ]
+    },
+    {
+        "titulo": "Prenda-me se for Capaz",
+        "ano": 2002,
+        "diretor": "Steven Spielberg",
+        "elenco": [
+            "Leonardo DiCaprio",
+            "Tom Hanks",
+            "Christopher Walken"
+        ],
+        "genero": "Biografia/Policial",
+        "classificacao": "12 anos",
+        "duracao": "141 min",
+        "nota": 8.1,
+        "resumo": "Um experiente agente do FBI assume como missão capturar o jovem Frank Abagnale Jr., que falsificou milhões de dólares em cheques fingindo ser piloto e médico.",
+        "semelhantes": [
+            "O Lobo de Wall Street",
+            "A Rede Social",
+            "A Trapaça"
+        ]
+    },
+    {
+        "titulo": "Coringa",
+        "ano": 2019,
+        "diretor": "Todd Phillips",
+        "elenco": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ],
+        "genero": "Drama/Suspense",
+        "classificacao": "16 anos",
+        "duracao": "122 min",
+        "nota": 8.4,
+        "resumo": "Em Gotham City, o comediante de stand-up mentalmente problemático Arthur Fleck é isolado pela sociedade e inicia uma espiral de revolta.",
+        "semelhantes": [
+            "Batman: O Cavaleiro das Trevas",
+            "Taxi Driver",
+            "O Rei da Comédia"
+        ]
+    },
+    {
+        "titulo": "Taxi Driver",
+        "ano": 1976,
+        "diretor": "Martin Scorsese",
+        "elenco": [
+            "Robert De Niro",
+            "Jodie Foster",
+            "Cybill Shepherd"
+        ],
+        "genero": "Drama/Suspense",
+        "classificacao": "14 anos",
+        "duracao": "114 min",
+        "nota": 8.2,
+        "resumo": "Um veterano de guerra mentalmente instável trabalha como motorista de táxi noturno em Nova York, onde a decadência urbana alimenta seus planos violentos.",
+        "semelhantes": [
+            "Coringa",
+            "Touro Indomável",
+            "Operação França"
+        ]
+    },
+    {
+        "titulo": "Estômago",
+        "ano": 2007,
+        "diretor": "Marcos Jorge",
+        "elenco": [
+            "João Miguel",
+            "Fabíula Nascimento",
+            "Babu Santana"
+        ],
+        "genero": "Drama/Comédia",
+        "classificacao": "16 anos",
+        "duracao": "112 min",
+        "nota": 7.8,
+        "resumo": "A trajetória de Raimundo Nonato, um homem que chega à cidade grande sem dinheiro e descobre um talento extraordinário para a culinária, mudando sua vida na prisão.",
+        "semelhantes": [
+            "O Chefe",
+            "Carandiru",
+            "O Homem que Copiava"
+        ]
+    },
+    {
+        "titulo": "Carandiru",
+        "ano": 2003,
+        "diretor": "Hector Babenco",
+        "elenco": [
+            "Luiz Carlos Vasconcelos",
+            "Milton Gonçalves",
+            "Rodrigo Santoro"
+        ],
+        "genero": "Drama/Crime",
+        "classificacao": "16 anos",
+        "duracao": "145 min",
+        "nota": 7.8,
+        "resumo": "Um médico sanitarista relata suas experiências com as realidades e histórias dos detentos do presídio do Carandiru antes do massacre de 1992.",
+        "semelhantes": [
+            "Cidade de Deus",
+            "Estômago",
+            "Última Parada 174"
+        ]
+    },
+    {
+        "titulo": "O Homem que Copiava",
+        "ano": 2003,
+        "diretor": "Jorge Furtado",
+        "elenco": [
+            "Lázaro Ramos",
+            "Leandra Leal",
+            "Luana Piovani"
+        ],
+        "genero": "Comédia/Crime",
+        "classificacao": "14 anos",
+        "duracao": "123 min",
+        "nota": 7.7,
+        "resumo": "Um jovem operador de fotocopiadora em Porto Alegre precisa de dinheiro para se aproximar de sua vizinha e decide falsificar notas de 50 reais.",
+        "semelhantes": [
+            "Saneamento Básico, O Filme",
+            "Estômago",
+            "Lisbela e o Prisioneiro"
+        ]
+    },
+    {
+        "titulo": "Lisbela e o Prisioneiro",
+        "ano": 2003,
+        "diretor": "Guel Arraes",
+        "elenco": [
+            "Selton Mello",
+            "Débora Falabella",
+            "Marco Nanini"
+        ],
+        "genero": "Romance/Comédia",
+        "classificacao": "12 anos",
+        "duracao": "106 min",
+        "nota": 7.6,
+        "resumo": "A jovem sonhadora Lisbela, que adora cinema, apaixona-se pelo malandro e conquistador Leléu, que está fugindo de um matador de aluguel.",
+        "semelhantes": [
+            "O Auto da Compadecida",
+            "O Bem Amado",
+            "Saneamento Básico, O Filme"
+        ]
+    },
+    {
+        "titulo": "Saneamento Básico, O Filme",
+        "ano": 2007,
+        "diretor": "Jorge Furtado",
+        "elenco": [
+            "Fernanda Torres",
+            "Wagner Moura",
+            "Lázaro Ramos"
+        ],
+        "genero": "Comédia",
+        "classificacao": "14 anos",
+        "duracao": "112 min",
+        "nota": 7.5,
+        "resumo": "Moradores de uma pequena vila tentam pleitear verba para construir uma fossa e descobrem que a única verba disponível do governo federal é para fazer um filme de ficção.",
+        "semelhantes": [
+            "O Homem que Copiava",
+            "Lisbela e o Prisioneiro",
+            "O Palhaço"
+        ]
+    },
+    {
+        "titulo": "O Palhaço",
+        "ano": 2011,
+        "diretor": "Selton Mello",
+        "elenco": [
+            "Selton Mello",
+            "Paulo José",
+            "Larissa Manoela"
+        ],
+        "genero": "Drama/Comédia",
+        "classificacao": "10 anos",
+        "duracao": "90 min",
+        "nota": 7.5,
+        "resumo": "O palhaço Pangaré vive uma crise de identidade cruzando as estradas com o circo de seu pai e decide partir em busca de um CEP fixo.",
+        "semelhantes": [
+            "Saneamento Básico, O Filme",
+            "Colegas",
+            "Gonzaga: De Pai pra Filho"
+        ]
+    },
+    {
+        "titulo": "O Menino e o Mundo",
+        "ano": 2013,
+        "diretor": "Alê Abreu",
+        "elenco": [
+            "Vinicius Garcia",
+            "Marco Aurélio Campos"
+        ],
+        "genero": "Animação/Aventura",
+        "classificacao": "Livre",
+        "duracao": "80 min",
+        "nota": 7.9,
+        "resumo": "Sofrendo com a falta do pai, um menino deixa sua aldeia e descobre um mundo fantástico dominado por máquinas-bichos e estranhos seres.",
+        "semelhantes": [
+            "O Menino da Porteira",
+            "Tito e os Pássaros",
+            "Perlimps"
+        ]
+    },
+    {
+        "titulo": "Madagascar",
+        "ano": 2005,
+        "diretor": "Eric Darnell, Tom McGrath",
+        "elenco": [
+            "Ben Stiller",
+            "Chris Rock",
+            "David Schwimmer"
+        ],
+        "genero": "Animação/Comédia",
+        "classificacao": "Livre",
+        "duracao": "86 min",
+        "nota": 6.9,
+        "resumo": "Quatro animais mimados do zoológico de Nova York naufragam acidentalmente na ilha exótica de Madagascar e precisam aprender a viver na selva.",
+        "semelhantes": [
+            "Madagascar 2",
+            "A Era do Gelo",
+            "Selvagem"
+        ]
+    },
+    {
+        "titulo": "A Era do Gelo",
+        "ano": 2002,
+        "diretor": "Chris Wedge",
+        "elenco": [
+            "Ray Romano",
+            "John Leguizamo",
+            "Denis Leary"
+        ],
+        "genero": "Animação/Aventura",
+        "classificacao": "Livre",
+        "duracao": "81 min",
+        "nota": 7.5,
+        "resumo": "Durante a era glacial da Terra, um mamute ranzinza, uma preguiça tagarela e um tigre dentes-de-sabre encontram um bebê humano perdido e decidem devolvê-lo.",
+        "semelhantes": [
+            "A Era do Gelo 2",
+            "Madagascar",
+            "Procurando Nemo"
+        ]
+    },
+    {
+        "titulo": "Clube dos Poetas Mortos",
+        "ano": 1989,
+        "diretor": "Peter Weir",
+        "elenco": [
+            "Robin Williams",
+            "Ethan Hawke",
+            "Robert Sean Leonard"
+        ],
+        "genero": "Drama",
+        "classificacao": "12 anos",
+        "duracao": "128 min",
+        "nota": 8.1,
+        "resumo": "Um professor de literatura nada ortodoxo inspira seus alunos de uma escola tradicional a encararem suas vidas com paixão e liberdade.",
+        "semelhantes": [
+            "Gênio Indomável",
+            "Sociedade dos Poetas Mortos",
+            "Prenda-me se for Capaz"
+        ]
+    },
+    {
+        "titulo": "A Lista de Schindler",
+        "ano": 1993,
+        "diretor": "Steven Spielberg",
+        "elenco": [
+            "Liam Neeson",
+            "Ben Kingsley",
+            "Ralph Fiennes"
+        ],
+        "genero": "Drama/História",
+        "classificacao": "14 anos",
+        "duracao": "195 min",
+        "nota": 9.0,
+        "resumo": "Na Polônia ocupada pelos nazistas, o empresário Oskar Schindler salva mais de mil judeus do Holocausto empregando-os em suas fábricas.",
+        "semelhantes": [
+            "O Pianista",
+            "A Vida é Bela",
+            "O Menino do Pijama Listrado"
+        ]
+    },
+    {
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "ano": 2001,
+        "diretor": "Peter Jackson",
+        "elenco": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "genero": "Fantasia/Aventura",
+        "classificacao": "12 anos",
+        "duracao": "178 min",
+        "nota": 8.9,
+        "resumo": "Um jovem hobbit herda um anel mágico e precisa iniciar uma jornada épica até a Montanha da Perdição para destruí-lo antes que caia em mãos erradas.",
+        "semelhantes": [
+            "O Senhor dos Anéis: As Duas Torres",
+            "O Senhor dos Anéis: O Retorno do Rei",
+            "O Hobbit"
+        ]
+    },
+    {
+        "titulo": "O Labirinto do Fauno",
+        "ano": 2006,
+        "diretor": "Guillermo del Toro",
+        "elenco": [
+            "Ivana Baquero",
+            "Ariadna Gil",
+            "Sergi López"
+        ],
+        "genero": "Fantasia/Drama",
+        "classificacao": "16 anos",
+        "duracao": "118 min",
+        "nota": 8.2,
+        "resumo": "Na Espanha fascista de 1944, a jovem enteada de um sádico oficial do exército foge para um mundo de fantasia misterioso habitado por um fauno.",
+        "semelhantes": [
+            "A Forma da Água",
+            "As Crônicas de Nárnia",
+            "Edward Mãos de Tesoura"
+        ]
+    },
+    {
+        "titulo": "Cisne Negro",
+        "ano": 2010,
+        "diretor": "Darren Aronofsky",
+        "elenco": [
+            "Natalie Portman",
+            "Mila Kunis",
+            "Vincent Cassel"
+        ],
+        "genero": "Suspense/Drama",
+        "classificacao": "16 anos",
+        "duracao": "108 min",
+        "nota": 8.0,
+        "resumo": "Uma bailarina talentosa, mas mentalmente frágil, entra em uma espiral de obsessão e paranoia ao competir pelo papel principal em O Lago dos Cisnes.",
+        "semelhantes": [
+            "Whiplash: Em Busca da Perfeição",
+            "O Operário",
+            "Ilha do Medo"
+        ]
     }
 ]
